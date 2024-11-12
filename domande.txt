@@ -1,0 +1,3 @@
+L'algoritmo è l'insieme dei passaggi che serve a risolvere un problema, come la ricetta per la preparazione di un dolce: i passaggi sono gli input e il dolce è l'output quindi il risultato finale.
+Una variabile è un contenitore a cui si dà un nome specifico che faccia intendere con cosa è riempito. Le variabili, quindi i contenitori, sono riutilizzabili così come sono o anche per crearne di nuove.
+Undefined vuole dire che il contenuto non è definito ma potrà esserlo, null significa che il contenitore è vuoto. 
